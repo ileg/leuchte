@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            //Comment
+            //Comment 1
             Console.WriteLine("Hello world!");
         }
     }
